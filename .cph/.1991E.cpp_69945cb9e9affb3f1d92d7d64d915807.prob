@@ -1,0 +1,1 @@
+{"name":"Local: 1991E","url":"/Users/Nikhil/Inito/Nikhil/1991E.cpp","tests":[{"id":1722362855826,"input":"2\n3 3\n1 2\n2 3\n3 1\n\n4 4\n1 2\n2 3\n3 4\n4 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/Nikhil/Inito/Nikhil/1991E.cpp","group":"local","local":true}
